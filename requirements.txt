@@ -23,7 +23,7 @@ Jinja2==2.10
 keyring==10.6.0
 keyrings.alt==3.0
 MarkupSafe==1.0
-mysql-connector-python==8.0.11
+mysql-connector-python==8.0.14
 paramiko==2.0.0
 passlib==1.7.1
 pyasn1==0.4.2
